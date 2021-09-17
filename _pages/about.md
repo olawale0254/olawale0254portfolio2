@@ -8,6 +8,48 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Scholar at Northwestern University (lab of Prof. [Wei Chen](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/chen-wei.html)). I earned my Ph.D. in Mechanical Engineering from the University of Maryland, College Park (lab of Prof. [Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge)), after which I worked as a Research Scientist in Siemens for one and a half years.
 
-My [research](research) explores how artificial intelligence (machine learning in particular) can assist humans in solving engineering design problems. Particularly, I'm interested in developing tools using deep learning, reinforcement learning, active learning, statistical modeling, and engineering optimization to realize performance and efficiency that is unachievable by traditional methods in tasks such as design synthesis, design space exploration, design optimization, and inverse design.
+<div style="text-align: justify">Abimbola Olawale is a Statistician and a Data Scientist whose researches are around data mining, machine learning, deep learning and computer vision. He is a graduate of statistics and currently works as a Data Scientist at Data Science Nigeria, which is a non-profit organisation aiming to develop Nigeria’s AI 
+  ecosystem and also build 1 million AI talent in ten years. He is part of the crowdsourcing research team that works on getting and analysing data efficiently from different users across various location.</div>
+
+# Portfolio
+## Computer Vision
+### Advance Convolution Neural networks (CNN) approach in Classifying COVID19 CT Scan Images
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/)
+<div style="text-align: justify">Comparing the Performance of Customized architecture of AlexNet and ResNet in classifying COVID-19 CT Scan images and Normal Images and was deployed using streamlit framework</div>
+
+
+![](image.jpg)
+
+
+### Counting buildings and identifying points of interest
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/olawale0254/Rooftop-Object-Couting-/blob/main/Copy%20of%20Rooftop_Object_Detection_Nigeria.ipynb)
+
+<div style="text-align: justify">The identification of buildings in Africa looks so daunting due to the irregularity in the arrangement of buildings in various settlements.This project focuses on developing a framework which will help in counting buildings and subsequently identify points of interest by applying object detection.</div>
+
+
+![](roof.png)
+
+
+### Classification of Computer Virus in Windows Environment Using Advance CNN approach
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/olawale0254/Roof) [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/)
+<div style="text-align: justify">The data consist of about 26 classes of different types of virus images. The purpose of this project was to present a better model which could
+outperform models presented by other researchers. To achieve this, we applied Xception transfer learning model for the feature extraction and and our model was trained using LightGBM</div>
+
+![](Virus.png)
+
+
+## Machine Learning 
+
+............Coming Soon!!!
+
+## Natural Language Processing
+
+............Coming Soon!!!
+
+Latest News
+-----
+............Coming Soon!!!
+
+
