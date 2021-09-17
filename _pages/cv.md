@@ -9,4 +9,4 @@ redirect_from:
 
 <iframe src="/files/pdf/Olawale.pdf" width="100%" height="600" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-You can download a PDF copy of my CV [here](/files/pdf/)lawale.pdf).
+You can download a PDF copy of my CV [here](/files/pdf/Olawale.pdf).
