@@ -3,7 +3,7 @@ title: "An Overview of Cardiovascular Disease Infection: A Comparative Analysis 
 collection: publications
 permalink: /publications/2020-11-25-Cardiovascular
 date: 2020-11-25
-venue: ''
+venue: 'International Journal of Official Statistics'
 paperurl: '/files/pdf/'
 link: 'https://content.iospress.com/articles/statistical-journal-of-the-iaos/sji190609'
 github: 'https://github.com/'
