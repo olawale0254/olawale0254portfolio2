@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wei Chen"
+title                    : "Olawale V Abimbola"
 title_separator          : "-"
-name                     : &name "Wei Chen"
-description              : &description "Postdoctoral Scholar at Northwestern University"
-url                      : https://wchen459.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Olawale V Abimbola"
+description              : &description "personal description"
+url                      : https://olawale0254.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "wchen459.github.io"
+repository               : "olawale0254/olawale0254.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,42 +80,35 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wei Chen"
-  avatar           : "profile.png"
-  bio              : "Postdoctoral Scholar at Northwestern University"
-  location         : "Evanston, IL"
-  employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=UlTyOWMAAAAJ&hl=en"
-  email            : "wei.wayne.chen@northwestern.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         : 
-  foursquare       :
-  github           : "wchen459"
+  name             : "Olawale V Abimbola"
+  avatar           : "new.jpg"
+  bio              : "Statistician/Data Scientist"
+  location         : "Lagos, Nigeria"
+  employer         : "Data Science Nigeria"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=gF0upCoAAAAJ&hl=en&authuser=1"
+  email            : "abimbolaolawale41@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Olawale-Abimbola"
+  github           : "olawale0254"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "wei-chen-467abb86"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : "bimbolawale/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "bimbolawale"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-
+  
 
 # Reading Files
 include:
