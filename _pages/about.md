@@ -17,7 +17,7 @@ redirect_from:
 ### Visualization of Clustered Countries 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/olawale0254/)
 
-<iframe src="https://abimbola-olawale.shinyapps.io/WQU_CRT_M1/" frameborder="0" width="100%" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://abimbola-olawale.shinyapps.io/WQU_CRT_M1/" frameborder="0" width="700%" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 
