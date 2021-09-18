@@ -13,7 +13,15 @@ redirect_from:
   ecosystem and also build 1 million AI talent in ten years. He is part of the crowdsourcing research team that works on getting and analysing data efficiently from different users across various location.</div>
 
 # Portfolio
-## Computer Vision
+
+### Visualization of Clustered Countries 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/olawale0254/)
+
+<iframe src="https://abimbola-olawale.shinyapps.io/WQU_CRT_M1/" frameborder="0" width="100%" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
+
+
 ### Advance Convolution Neural networks (CNN) approach in Classifying COVID19 CT Scan Images
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/)
 <div style="text-align: justify">Comparing the Performance of Customized architecture of AlexNet and ResNet in classifying COVID-19 CT Scan images and Normal Images and was deployed using streamlit framework</div>
@@ -40,16 +48,6 @@ outperform models presented by other researchers. To achieve this, we applied Xc
 ![](Virus.png)
 
 
-## Machine Learning 
 
-............Coming Soon!!!
-
-## Natural Language Processing
-
-............Coming Soon!!!
-
-Latest News
------
-............Coming Soon!!!
 
 
