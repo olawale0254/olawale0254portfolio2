@@ -62,6 +62,14 @@ redirect_from:
 
 # Portfolio
 
+### Applying Computer Vision to Sport Analyics 
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/)
+<div style="text-align: justify">An application of Custom Object Detection to Sport Analyics</div>
+
+
+![](ball_Trim_Trim.mp4)
+
+
 ### Visualization of Clustered Countries 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/olawale0254/)
 
