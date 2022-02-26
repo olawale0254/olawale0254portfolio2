@@ -54,7 +54,7 @@ redirect_from:
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=olawale0254&count_private=true&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/olawale0254/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olawale0254" /width='232px'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olawale0254" width='232px'>
 </a>
   
   
