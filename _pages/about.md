@@ -67,7 +67,7 @@ redirect_from:
 <div style="text-align: justify">An application of Custom Object Detection to Sport Analyics</div>
 
 
-![](ball_Trim_Trim.mp4)
+![alt-text](https://github.com/olawale0254/olawale0254.github.io/blob/main/_pages/ezgif.com-gif-maker%20(3).gif?raw=true)
 
 
 ### Visualization of Clustered Countries 
