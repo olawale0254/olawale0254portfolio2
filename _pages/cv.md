@@ -1,12 +1,11 @@
 ---
 layout: archive
-title: "CV"
+title: "RESUME"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
 <iframe src="/files/Ola.pdf" width="100%" height="600" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 You can download a PDF copy of my CV [here](/files/Ola.pdf).
