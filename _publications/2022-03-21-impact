@@ -1,0 +1,13 @@
+---
+title: "Impact of COVID-19 on Local Markets: An Application of Garch and Markov-Switching Dynamic Regression"
+collection: publications
+permalink: /publications/2022-03-21-impact
+date: 2022-03-21
+venue: '2022-03-21-impact'
+paperurl: '/files/pdf/'
+link: 'https://www.preprints.org/manuscript/202203.0281/v1'
+github: 'https://github.com/'
+authors: '<b>Olawale, Abimbola</b>,Chukwudi Ogbekile, Ehizokhale Oseghale'
+abstract: "COVID-19, a global health crisis, occurred unexpectedly and has led to global transformation over all countries in the world today. While COVID-19 had claimed lives and led to an economic crisis, the impacts on the financial market cannot be overemphasized. Considering the previous financial crisis, which occurred due to poor regulations and unchecked misconduct by financial market stakeholders, COVID-19 is the first to mention an indirect crisis that almost has no direct relationship to the financial system. Thus, this paper explores the impacts of COVID-19 from a stochastic approach on Local markets by applying the GARCH model to measure the level of volatility of two (2) US stock indexes (NASDAQ and NYSE) and a Europe index (EURONEXT). Our results show that volatility existed before COVID-19, but the volatility rate increased after COVID-19, possibly due to the COVID-19 shock. We also explore the Markov-Switching Dynamic Regression (MSDR) model to corroborate our findings. We validated that there is a very high persistent volatility for all the considered local markets at the early stage COVID-19 period."
+category: 'preprint'
+---
