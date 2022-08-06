@@ -10,19 +10,24 @@ redirect_from:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=olawale0254.olawale0254)
 
-<div style="text-align: justify">Abimbola Olawale is an AI Enginner whose researches are around Data mining, Machine learning, Deep learning and Computer vision. He is a lover of computer vision and has worked on many projects related to Object Detectionn and Semantic Extractions. Resently He fell inlove with the application of computer vision in Sports and he is currently reserching around that .</div>
+<div style="text-align: justify">Abimbola Olawale is an AI Enginner whose researches are around Data mining, Machine learning, Deep learning and Computer vision. He is a lover of computer vision and has worked on many projects related to Object Detection, Semantic Extractions and Recommendation Systems. Resently He fell inlove with the application of computer vision in Sports and he is currently reserching around that .</div>
 
 
 
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+- 🔭 I’m currently working on the application of Computer Vision application to e-commerce.
 
-- 🔭 I am also applying Computer Vision in Sport Analytics
+- 🔭 I am also applying Computer Vision in GIS.
+
+- 🌱 I formally working as an AI Enginner and Resercher at Data Scientists Network (Data Science Nigeria).
+
+- 🌱 I am currently working as a Data Scientists at Creative Advanced Technologies 
 
 - 👯 I’m open to collaborating on Projects and StartUps for business and social good.  
 
-- 💬 Talk to me about Computer Vision, Geospatial Analytics, Data Science, Robotics Process Automation, Data Engineering, Open Source.
+- 💬 Talk to me about Computer Vision, Recommender Systems, Geospatial Analytics, Data Science, Machine Learning, Data Engineering, Deep Learning.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
