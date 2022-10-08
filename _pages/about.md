@@ -10,7 +10,7 @@ redirect_from:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=olawale0254.olawale0254)
 
-<div style="text-align: justify">Abimbola Olawale is an AI Enginner whose researches are around Data mining, Machine learning, Deep learning and Computer vision. He is a lover of computer vision and has worked on many projects related to Object Detection, Semantic Extractions and Recommendation Systems. Resently He fell inlove with the application of computer vision in Sports and he is currently reserching around that .</div>
+<div style="text-align: justify">Abimbola Olawale is an AI Engineer whose researches are around Data mining, Machine learning, Deep learning and Computer vision. He is a lover of computer vision and has worked on many projects related to Object Detection, Semantic Extractions and Recommendation Systems. Resently He fell inlove with the application of computer vision in Sports and he is currently reserching around that .</div>
 
 
 
@@ -19,7 +19,7 @@ redirect_from:
 
 - 🔭 I have over 4 years experience in the feild of Data.
 
-- 🌱 I formally worked as a AI Enginner and Researcher at Data Scientists Network (Data Science Nigeria) Lagos Nigeria.
+- 🌱 I formally worked as a AI Engineer and Researcher at Data Scientists Network (Data Science Nigeria) Lagos Nigeria.
 
 - 🌱 I am currently working as a AI Engineer/Data Scientist at Creative Advanced Technologies Dubai UAE.
 
