@@ -17,15 +17,13 @@ redirect_from:
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on the application of Computer Vision application to e-commerce.
+- 🔭 I have over 4 years experience in the feild of Data.
 
-- 🔭 I am also applying Computer Vision in GIS.
+- 🌱 I formally worked as a AI Enginner and Researcher at Data Scientists Network (Data Science Nigeria) Lagos Nigeria.
 
-- 🌱 I formally working as an AI Enginner and Resercher at Data Scientists Network (Data Science Nigeria).
+- 🌱 I am currently working as a AI Engineer/Data Scientist at Creative Advanced Technologies Dubai UAE.
 
-- 🌱 I am currently working as a Data Scientists at Creative Advanced Technologies 
-
-- 👯 I’m open to collaborating on Projects and StartUps for business and social good.  
+- 👯 I’m open to collaborating on Projects and StartUps for Business and Social Goods.  
 
 - 💬 Talk to me about Computer Vision, Recommender Systems, Geospatial Analytics, Data Science, Machine Learning, Data Engineering, Deep Learning.
 
